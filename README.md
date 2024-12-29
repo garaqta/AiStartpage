@@ -19,10 +19,10 @@ Examples:
 - DuckDuckGo: `https://duckduckgo.com/?q=`
 - Bing: `https://www.bing.com/search?q=`
 
-# Preview
-
-![Hinatsuru Ai](https://github.com/garaqta/AiStartpage/blob/main/preview.gif)
-
 ### How to add weather suppot
 
 Simply go to the config.JSON file in your config folder and paster your openweatherAPI key there.
+
+# Preview
+
+![Hinatsuru Ai](https://github.com/garaqta/AiStartpage/blob/main/preview.gif)
